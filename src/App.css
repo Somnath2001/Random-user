@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.App {
+	min-height: 100vh;
+}
+.card {
+	margin-top: 120px;
+}
+img {
+	margin-top: -80px;
+}
+.cardo {
+
+	border-radius: 2.5cm;
+	
+}
+
+.toasto {
+	color: rgb(25, 12, 150);
+	background-color: rgb(184, 150, 169);
+	font-family: 'Anton', sans-serif;
+}
+
+
